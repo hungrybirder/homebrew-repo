@@ -10,5 +10,5 @@ Or
 
 ```bash
 brew tap hungrybirder/repo
-brew install jdt-jdt-language-server
+brew install jdt-language-server
 ```
