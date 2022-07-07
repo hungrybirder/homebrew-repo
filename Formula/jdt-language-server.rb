@@ -1,8 +1,8 @@
 class JdtLanguageServer < Formula
   desc "Eclipse JDT Language Server"
   homepage "https://github.com/eclipse/eclipse.jdt.ls"
-  url "https://download.eclipse.org/jdtls/snapshots/jdt-language-server-1.13.0-202206301721.tar.gz"
-  sha256 "5a29ad28d765f408106a87b147b239696942a11f22f950c52dc37176fce9cfc9"
+  url "https://download.eclipse.org/jdtls/snapshots/jdt-language-server-1.14.0-202207060021.tar.gz"
+  sha256 "41a0a840e2fa0c119c41a69b534407e380c6dc58c316cc30e92618623b0edbe1"
 
   depends_on "openjdk"
 
